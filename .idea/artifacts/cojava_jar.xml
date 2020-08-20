@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cojava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cojava_jar</output-path>
+    <root id="archive" name="cojava.jar">
+      <element id="module-output" name="cojava" />
+    </root>
+  </artifact>
+</component>
